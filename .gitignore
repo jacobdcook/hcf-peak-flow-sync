@@ -1,0 +1,7 @@
+# personal data and local notes stay on this machine
+*.jsonl
+.last_report
+HANDOFF.md
+*.bak
+.venv/
+__pycache__/
